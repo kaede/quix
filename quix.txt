@@ -13,6 +13,7 @@ php     http://php.net/search.php?show=quickref&pattern=%s  				PHP Function Sea
 tr     	http://translate.google.co.jp/#ja/en/%s  				Google Translate
 wiki       http://jp.wikipedia.org/wiki/Special:Search/%s_         				Wikipedia Search
 wa		http://www.wolframalpha.com/input/?i=%s								Wolfram Alpha Search
+alc  	http://eow.alc.co.jp/search?q=%s  							alc Search
 
 @Social commands
 @These commands are for dealing with social networks and social sites.
